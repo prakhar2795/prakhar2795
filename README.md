@@ -5,10 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prakhar2795" alt="prakhar2795" /></a> </p>
 
-- 🔭 I’m currently working on [PYQLabs](www.pyqlabs.com)
-
-- 📝 I regularly write articles on [acharyainnovates.hashnode.dev](acharyainnovates.hashnode.dev)
-
 - 💬 Ask me about **ML, MLOPs, GCP, AWS, Kubernetes, CI/CD, Docker, Mentorship, Resume Review, SME**
 
 - 📫 How to reach me **prakharacharyaa@gmail.com**
